@@ -10,6 +10,7 @@ OBJS = \
   $K/kernelvec.o\
   $K/trampoline.o \
   $K/proc.o \
+  $K/scheduler.o \
   $K/swtch.o \
   $K/plic.o\
   $K/tests.o\
